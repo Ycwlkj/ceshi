@@ -1,15 +1,15 @@
 {
   "code": 1,
   "data": [
-    {"pageId": 1, "sortId": 1, "title": "卡卡云商城", "subTitle": "这是我的个人博客页面", "url": "http://ycwl.jsdh.lol", "icon": "./img/logo内白.png"},
-    {"pageId": 2, "sortId": 1, "title": "卡卡云备用（高速）", "subTitle": "这是我的个人博客页面", "url": "http://yc.sup12.cn", "icon": "./img/ycw.png"},
-    {"pageId": 3, "sortId": 1, "title": "卡卡云备用", "subTitle": "这是我的个人博客页面", "url": "http://ycwl.vvxo.cn", "icon": "./img/hl.png"},
-    {"pageId": 4, "sortId": 1, "title": "下单QQ机器人", "subTitle": "这是我的个人博客页面", "url": "https://wpa.qq.com/msgrd?v=3&uin=1570154747", "icon": "./img/qq.png"},
-    {"pageId": 5, "sortId": 1, "title": "红包封面", "subTitle": "这是我的个人博客页面", "url": "https://k.youshop10.com/g5k2ARih", "icon": "./img/ln.png"},
-    {"pageId": 6, "sortId": 1, "title": "免费领取流量卡", "subTitle": "这是我的个人博客页面", "url": "https://yc.weilesou.cn/", "icon": "./img/cr.png"},
-    {"pageId": 7, "sortId": 1, "title": "定制版演示", "subTitle": "这是我的个人博客页面", "url": "http://49.232.28.185/", "icon": "./img/xmf.png"},
-    {"pageId": 8, "sortId": 1, "title": "聊天强制迁移", "subTitle": "这是我的个人博客页面", "url": "https://txmov2.a.kwimgs.com/upic/2024/02/03/10/BMjAyNDAyMDMxMDI3NDhfMzIyOTUyNTE2MF8xMjM4NTA3MjY5MDRfMV8z_b_B056ec85f07bdf9bcefda940c6fbdf089.mp4", "icon": "./img/ddm.png"},
-    {"pageId": 9, "sortId": 1, "title": "售后必读", "subTitle": "这是我的个人博客页面", "url": "https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/93bcc99858a890264fcd477f67de7ea1e2fef2a8b9a8ab5ccf2e41d8f16f167466ecdd2a3094468cf9ec483555114285?pictype=scale&from=30013&version=3.3.3.3&fname=IMG_4090.png&size=750", "icon": "./img/sh.png"},
-    {"pageId": 10, "sortId": 1, "title": "联系客服", "subTitle": "这是我的个人博客页面", "url": "http://yc.ycy3.cn/erweima/ycvx.jpg", "icon": "./img/cwj.png"}
+    {"pageId": 1, "sortId": 1, "title": "卡卡云商城", "subTitle": "这是我的个人博客页面", "url": "http://ycwl.jsdh.lol", "icon": "https://ycwlkj.github.io/sc/img/logo内白.png"},
+    {"pageId": 2, "sortId": 1, "title": "卡卡云备用（高速）", "subTitle": "这是我的个人博客页面", "url": "http://yc.sup12.cn", "icon": "https://ycwlkj.github.io/sc/img/ycw.png"},
+    {"pageId": 3, "sortId": 1, "title": "卡卡云备用", "subTitle": "这是我的个人博客页面", "url": "http://ycwl.vvxo.cn", "icon": "https://ycwlkj.github.io/sc/img/hl.png"},
+    {"pageId": 4, "sortId": 1, "title": "下单QQ机器人", "subTitle": "这是我的个人博客页面", "url": "https://wpa.qq.com/msgrd?v=3&uin=1570154747", "icon": "https://ycwlkj.github.io/sc/img/qq.png"},
+    {"pageId": 5, "sortId": 1, "title": "红包封面", "subTitle": "这是我的个人博客页面", "url": "https://k.youshop10.com/g5k2ARih", "icon": "https://ycwlkj.github.io/sc/img/ln.png"},
+    {"pageId": 6, "sortId": 1, "title": "免费领取流量卡", "subTitle": "这是我的个人博客页面", "url": "https://yc.weilesou.cn/", "icon": "https://ycwlkj.github.io/sc/img/cr.png"},
+    {"pageId": 7, "sortId": 1, "title": "定制版演示", "subTitle": "这是我的个人博客页面", "url": "http://49.232.28.185/", "icon": "https://ycwlkj.github.io/sc/img/xmf.png"},
+    {"pageId": 8, "sortId": 1, "title": "聊天强制迁移", "subTitle": "这是我的个人博客页面", "url": "https://txmov2.a.kwimgs.com/upic/2024/02/03/10/BMjAyNDAyMDMxMDI3NDhfMzIyOTUyNTE2MF8xMjM4NTA3MjY5MDRfMV8z_b_B056ec85f07bdf9bcefda940c6fbdf089.mp4", "icon": "https://ycwlkj.github.io/sc/img/ddm.png"},
+    {"pageId": 9, "sortId": 1, "title": "售后必读", "subTitle": "这是我的个人博客页面", "url": "https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/93bcc99858a890264fcd477f67de7ea1e2fef2a8b9a8ab5ccf2e41d8f16f167466ecdd2a3094468cf9ec483555114285?pictype=scale&from=30013&version=3.3.3.3&fname=IMG_4090.png&size=750", "icon": "https://ycwlkj.github.io/sc/img/sh.png"},
+    {"pageId": 10, "sortId": 1, "title": "联系客服", "subTitle": "这是我的个人博客页面", "url": "http://yc.ycy3.cn/erweima/ycvx.jpg", "icon": "https://ycwlkj.github.io/sc/img/cwj.png"}
   ]
 }
