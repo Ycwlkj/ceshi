@@ -40,7 +40,7 @@
 <div class="clearfix"></div>
 <div class="tisp">复制网址到浏览器地址栏打开</div>
 <div class="input">
-	<input id="CopyURL" value="http://yc.ycy3.cn/" readonly="readonly">
+	<input id="CopyURL" value="https://ycwlkj.github.io/sc/" readonly="readonly">
 </div>
 <div>
 	<a id="btnCopy" data-clipboard-target="#CopyURL">一键复制</a>
@@ -75,7 +75,7 @@ $(function(){
 	});
 	 clipboard.on('error', function(e) {
 		setTimeout(function() {
-			prompt("复制失败了,请长按全选输入框复制吧~", 'http://yc.ycy3.cn/'+tg)
+			prompt("复制失败了,请长按全选输入框复制吧~", 'https://ycwlkj.github.io/sc/'+tg)
 		}, 200)
 	});
 });	
@@ -85,7 +85,7 @@ function loading() {
 	setInterval(function() {
 		if (kg) {
 			if (num == 100) {
-				window.location.href = 'http://yc.ycy3.cn/index1.html' + tg;
+				window.location.href = 'https://ycwlkj.github.io/sc/index1.html' + tg;
 				kg = false;
 				return false;
 			}
